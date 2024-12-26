@@ -1,4 +1,4 @@
-Hi there 👋
+ <h2 align="center">Hi there 👋</h2>
 
 ```kt
 import java.time.LocalDate
@@ -42,3 +42,5 @@ object Happy {
     )
 }
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OoHappyoO)
