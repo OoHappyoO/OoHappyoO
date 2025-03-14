@@ -35,10 +35,9 @@ object Happy {
     )
 
     val achievements = mutableMapOf(
-            LocalDate.of(2020,11,7) to "CSP-J 1=",
-            LocalDate.of(2023,11,18) to "NOIP 1=",
-            LocalDate.of(2024,10,26) to "CSP-S 1=",
-            LocalDate.of(2024,10,26) to "Luogu √7"
+            LocalDate.of(2020, 11, 7) to "CSP-J 1=",
+            LocalDate.of(2023, 11, 18) to "NOIP 1=",
+            LocalDate.of(2024, 10, 26) to "CSP-S 1="
     )
 }
 ```
